@@ -55,4 +55,4 @@ For questions, suggestions, or collaboration opportunities, please contact:
 [Yu QIANG] - yu.qiang@siat.ac.cn
 
 
-This work was supported byState Key Laboratory of Biomedical Imaging Science and System, which also owns the copyright of this work. The authors would like to thank all contributors and collaborators for their valuable feedback and support.
+This work was supported by State Key Laboratory of Biomedical Imaging Science and System, which also owns the copyright of this work. The authors would like to thank all contributors and collaborators for their valuable feedback and support.
