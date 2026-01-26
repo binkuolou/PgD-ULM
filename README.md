@@ -38,7 +38,7 @@ python generate_psfs.py \
   --tau 10 \
   --save_format mat
 ```
-
+A simple training dataset generation code has been provided, named  *example_for_training_dataset_generation_single_frame.m*
 ## Citation
 
 The relevant manuscripts are currently under submission and review. We will provide citation information upon publication.
