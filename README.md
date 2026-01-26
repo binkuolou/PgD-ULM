@@ -9,7 +9,7 @@
 This repository contains the official implementation of **Physical Parameter-Guided Diffusion (PgD)**, a framework for generating high-fidelity microbubble point spread functions (PSFs) under diverse ultrasound imaging conditions. Unlike conventional simulation methods, our approach explicitly incorporates physical imaging parameters (frequency, transducer element pitch, active elements count, and pulse configuration) into the diffusion generation process, enabling the synthesis of realistic training data for deep learning-based Ultrasound Localization Microscopy (ULM) without extensive experimental data collection.
 
 
-<img src ="illustration.png", width = "65%">
+<img src ="illustration.png" width = "65%">
 </center>
 
 **The Physical Parameter-Guided Diffusion for DNN-ULM**
@@ -17,7 +17,7 @@ This repository contains the official implementation of **Physical Parameter-Gui
 ## Key Features
 * **High-similarity outputs**: High similarity of structure and width distributions of generated PSFs compared to the nonlinear experimenta MBs PSF. 
 * **Parameter-guided generation**: Direct integration of physical ultrasound parameters into the diffusion process, allowing for generation of MBs under differetn conditions. 
-* **Null parameter strategy**: Strategy to diverse imaging conditions with one datasets.
+* **Null parameter strategy**: Strategy to handle diverse imaging conditions with one dataset.
 
 ## Usage
 
