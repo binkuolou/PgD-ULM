@@ -20,8 +20,9 @@ This repository contains the official implementation of **Physical Parameter-Gui
 * **Null parameter strategy**: Strategy to handle diverse imaging conditions with one dataset.
 * **Cross Model Ability**: Suitable for varied localization models: 
 
-<img src ="Result_Model" width = "80%">
+<img src ="Result_Model.png" width = "80%">
 </center>
+
 **The combination of PgD with single frame model: SGSPCN(https://github.com/hahnec/rf-ulm) and multi frame model: DECODE (https://github.com/illyrs2/LOCA-ULM)**
 
 ## Usage
