@@ -18,7 +18,11 @@ This repository contains the official implementation of **Physical Parameter-Gui
 * **High-similarity outputs**: High similarity of structure and width distributions of generated PSFs compared to the nonlinear experimenta MBs PSF. 
 * **Parameter-guided generation**: Direct integration of physical ultrasound parameters into the diffusion process, allowing for generation of MBs under differetn conditions. 
 * **Null parameter strategy**: Strategy to handle diverse imaging conditions with one dataset.
-* **Cross Model Ability**: Suitable for varied localization model.
+* **Cross Model Ability**: Suitable for varied localization models: 
+
+<img src ="Result_Model" width = "80%">
+</center>
+**The combination of PgD with single frame model: SGSPCN(https://github.com/hahnec/rf-ulm) and multi frame model: DECODE (https://github.com/illyrs2/LOCA-ULM)**
 
 ## Usage
 
